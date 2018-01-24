@@ -1,0 +1,10 @@
+C:\Coding\DummyCopy\DummyCopy\bin\Release\DummyCopy.exe.config
+C:\Coding\DummyCopy\DummyCopy\bin\Release\DummyCopy.exe
+C:\Coding\DummyCopy\DummyCopy\bin\Release\DummyCopy.pdb
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.csprojResolveAssemblyReference.cache
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.CopyDummy.resources
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.Properties.Resources.resources
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.csproj.GenerateResource.Cache
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.csproj.CoreCompileInputs.cache
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.exe
+C:\Coding\DummyCopy\DummyCopy\obj\Release\DummyCopy.pdb
